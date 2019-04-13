@@ -1,0 +1,11 @@
+{
+  "name": "@js-x/require-yml",
+  "description": "require('*.yml')",
+  "version": "1.0.0",
+  "files": [
+    "require-yml.js"
+  ],
+  "dependencies": {
+    "js-yaml": "^3.13.1"
+  }
+}
